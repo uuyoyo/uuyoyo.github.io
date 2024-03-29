@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Newsroom</title>
+    <link>https://uuyoyo.github.io/tags/</link>
+    <description>Recent content in Tags on Newsroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://uuyoyo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji</title>
+      <link>https://uuyoyo.github.io/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://uuyoyo.github.io/tags/emoji/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>https://uuyoyo.github.io/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://uuyoyo.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://uuyoyo.github.io/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://uuyoyo.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>https://uuyoyo.github.io/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://uuyoyo.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://uuyoyo.github.io/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://uuyoyo.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Templates</title>
+      <link>https://uuyoyo.github.io/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://uuyoyo.github.io/tags/templates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://uuyoyo.github.io/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://uuyoyo.github.io/tags/themes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
